@@ -7,3 +7,4 @@
 5. DistributeCoinsInBinaryTree: Return the number of moves required to make every node have exactly one coin.
 6. FlipEquiverlentTree: Write a function that determines whether two binary trees are flip equivalent.
 7. MaximumBinaryTreeII: Return Construct(B).
+8. TrimABinarySearchTree: return the new root of the trimmed binary search tree.
