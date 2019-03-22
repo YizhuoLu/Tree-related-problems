@@ -13,3 +13,8 @@
 11. ConstructBinaryTreeFromPreorderAndPostorderTraversal: Return any binary tree that matches the given preorder and postorder traversals.
 12. AverageOfLevelsInBinaryTree: Given a non-empty binary tree, return the average value of the nodes on each level in the form of an array.
 13. KillProcess: return a list of PIDs of processes that will be killed in the end.
+14. MostFrequentSubtreeSum: return all the values with the highest frequency in any order.
+15. TwoSumIVWithBST: return true if there exist two elements in the BST such that their sum is equal to the given target.
+16. PrintBinaryTree: Print a binary tree in an m*n 2D string array following the rules.
+17. ConstructStringFromBinaryTree: You need to construct a string consists of parenthesis and integers from a binary tree with the pre-order traversing way.
+18. PreOrderTraversal:  Given a binary tree, return the preorder traversal of its nodes' values.
