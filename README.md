@@ -18,3 +18,7 @@
 16. PrintBinaryTree: Print a binary tree in an m*n 2D string array following the rules.
 17. ConstructStringFromBinaryTree: You need to construct a string consists of parenthesis and integers from a binary tree with the pre-order traversing way.
 18. PreOrderTraversal:  Given a binary tree, return the preorder traversal of its nodes' values.
+19. InorderSuccessorInBSTII: find the in-order successor of that node in the BST.
+20. CousinsInBinaryTree: Return true if and only if the nodes corresponding to the values x and y are cousins.
+21. CBTInserter: Write a data structure CBTInserter that is initialized with a complete binary tree and supports the required operations.
+22. SmallestSubtreeWithAllTheDeepestNodes: Return the node with the largest depth such that it contains all the deepest nodes in its subtree.
