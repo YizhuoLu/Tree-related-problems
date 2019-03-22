@@ -22,3 +22,4 @@
 20. CousinsInBinaryTree: Return true if and only if the nodes corresponding to the values x and y are cousins.
 21. CBTInserter: Write a data structure CBTInserter that is initialized with a complete binary tree and supports the required operations.
 22. SmallestSubtreeWithAllTheDeepestNodes: Return the node with the largest depth such that it contains all the deepest nodes in its subtree.
+23. SerializeAndDeserializeN_aryTree: Design an algorithm to serialize and deserialize an N-ary tree.
