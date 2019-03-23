@@ -28,3 +28,4 @@
 26. SmallestStringStartingFromLeaf: Find the lexicographically smallest string that starts at a leaf of this tree and ends at the root.
 27. BinaryTreeUpsideDown: Return the new root given the rule.
 28. SumOfLeftLeaves: Find the sum of all left leaves in a given binary tree.
+29. CountUnivalueSubtrees: count the number of uni-value subtrees.
