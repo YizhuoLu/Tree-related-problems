@@ -23,3 +23,8 @@
 21. CBTInserter: Write a data structure CBTInserter that is initialized with a complete binary tree and supports the required operations.
 22. SmallestSubtreeWithAllTheDeepestNodes: Return the node with the largest depth such that it contains all the deepest nodes in its subtree.
 23. SerializeAndDeserializeN_aryTree: Design an algorithm to serialize and deserialize an N-ary tree.
+24. ConvertBSTToSortedDoublyLinkedList: Convert a BST to a sorted circular doubly-linked list in-place.
+25. ConvertBSTToGreaterTree: convert it to a Greater Tree such that every key of the original BST is changed to the original key plus sum of all keys greater than the original key in BST.
+26. SmallestStringStartingFromLeaf: Find the lexicographically smallest string that starts at a leaf of this tree and ends at the root.
+27. BinaryTreeUpsideDown: Return the new root given the rule.
+28. SumOfLeftLeaves: Find the sum of all left leaves in a given binary tree.
