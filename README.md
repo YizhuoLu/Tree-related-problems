@@ -29,3 +29,7 @@
 27. BinaryTreeUpsideDown: Return the new root given the rule.
 28. SumOfLeftLeaves: Find the sum of all left leaves in a given binary tree.
 29. CountUnivalueSubtrees: count the number of uni-value subtrees.
+30. HouseRobberIII: Determine the maximum amount of money the thief can rob tonight without alerting the police.
+31. PostOrderTraversal: Given a binary tree, return the post-order traversal of its nodes' values.
+32. BinaryTreeTilt: Given a binary tree, return the tilt of the whole tree.
+33. AddOneRowToRow: add a row of nodes with value v at the given depth d.
