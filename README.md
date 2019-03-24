@@ -33,3 +33,6 @@
 31. PostOrderTraversal: Given a binary tree, return the post-order traversal of its nodes' values.
 32. BinaryTreeTilt: Given a binary tree, return the tilt of the whole tree.
 33. AddOneRowToRow: add a row of nodes with value v at the given depth d.
+34. CheckIfTreeComplete: Given a binary tree, determine if it is a complete binary tree.
+35. DiameterOfBInaryTree: Given a binary tree, you need to compute the length of the diameter of the tree.
+36. UniqueBinarySearchTrees: Given n, how many structurally unique BST's (binary search trees) that store values 1 ... n?
