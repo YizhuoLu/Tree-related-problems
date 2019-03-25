@@ -36,3 +36,5 @@
 34. CheckIfTreeComplete: Given a binary tree, determine if it is a complete binary tree.
 35. DiameterOfBInaryTree: Given a binary tree, you need to compute the length of the diameter of the tree.
 36. UniqueBinarySearchTrees: Given n, how many structurally unique BST's (binary search trees) that store values 1 ... n?
+37. SerializeAndDeserializeBST: Design an algorithm to serialize and deserialize a binary search tree.
+38. AllNodesDistanceKInBinaryTree: Return a list of the values of all nodes that have a distance K from the target node.
